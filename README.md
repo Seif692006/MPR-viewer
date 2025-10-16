@@ -1,1 +1,1 @@
-# MPR Viewer for medical images
+# MPR Viewer for medical images with AI support
